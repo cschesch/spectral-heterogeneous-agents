@@ -1,12 +1,12 @@
 # Spectral Methods for Heterogeneous-Agent Models - PSE Master Thesis
 
-In this repository, you can find the code for the Master Thesis _"Continuous-Time Methods for Heterogeneous-Agent Models in Macroeconomics: a Spectral Approach"_, which I wrote in 2022 for the Master in Analysis and Policy in Economics at the Paris School of Economics, under the supervision of Prof. Daniel Cohen and Prof. Tobias Broer. You can find the thesis and the corresponding slides on this repository.
+In this repository, you can find the code for the Master Thesis _"Continuous-Time Methods for Heterogeneous-Agent Models in Macroeconomics: a Spectral Approach"_, which I wrote in 2022 for the Master in Analysis and Policy in Economics at the Paris School of Economics, under the supervision of Prof. Daniel Cohen and Prof. Tobias Broer. You can find the Thesis and the accompanying slides on this repository.
 
 ## Abstract
 
 To be added.
 
-## Code Structure
+## Code
 
 There are six pieces of code, all written in Python and saved as Jupyter Notebooks:
 \begin{enumerate}
