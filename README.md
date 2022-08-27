@@ -19,4 +19,4 @@ There are six pieces of code, all written in Python and saved as Jupyter Noteboo
 
 To run without modification, all code should be put into a folder titled `code`, next to which one should create two folders called `figures` and `tables` to collect the output. The only slightly esoteric dependency used is [DmSuite](https://github.com/labrosse/dmsuite), which you can simply download using [Pip](https://pypi.org/project/dmsuite/).
 
-If you have any questions on the code or the Thesis itself, feel free to message me at `c.schesch@gmail.com'.
+If you have any questions on the code or the Thesis itself, feel free to message me at c.schesch@gmail.com.
