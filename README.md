@@ -10,13 +10,13 @@ To be added.
 
 There are six pieces of code, all written in Python and saved as Jupyter Notebooks:
 \begin{enumerate}
-* `backend`: various utility functions, notably for manipulating and assembling differentiation matrices, that are used in all other codes of this project
-* `two_state`: code for the two-income Hugget model which is solved in Section \ref{sec:two_income} and used for the benchmark of Section \ref{sec:benchmark}.
+* `backend`: contains various helper functions, notably for manipulating and assembling differentiation matrices, that are used in all other codes of this project
+* `two_state`: code for the two-income Hugget model which is solved in Section 4 and used for the benchmark of Section 8
 * `two_state_weakly_binding`: code for the two-income model with a weakly binding credit constraint, in which the pseudospectral solution to the KF equation is not too terrible
-* `diffusion`: code for the diffusive income Hugget model solved in Section \ref{sec:diffusion}
-* `life_cycle`: code for the life-cycle model solved in Section \ref{sec:life_cycle}
-* `slow_transitions`: code for the Power law model and transition speed analysis from Section \ref{sec:slow_transitions}
+* `diffusion`: code for the diffusive income Hugget model solved in Section 5
+* `life_cycle`: code for the life-cycle model solved in Section 6
+* `slow_transitions`: code for the Power law model and transition speed analysis from Section 7
 
-To run without modification, all code should be put into a folder titled `code', next to which one should create two folders called `figures' and `tables' to collect the output. The only slightly esoteric dependency used is [DmSuite](https://github.com/labrosse/dmsuite), which you can simply download using [Pip](https://pypi.org/project/dmsuite/).
+To run without modification, all code should be put into a folder titled `code`, next to which one should create two folders called `figures` and `tables` to collect the output. The only slightly esoteric dependency used is [DmSuite](https://github.com/labrosse/dmsuite), which you can simply download using [Pip](https://pypi.org/project/dmsuite/).
 
 If you have any questions on the code or the Thesis itself, feel free to message me at `c.schesch@gmail.com'.
