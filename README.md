@@ -20,7 +20,7 @@ There are six pieces of code, all written in Python and saved as Jupyter Noteboo
 To run without modification, all code should be put into a folder titled `code`, next to which one should create two folders called `figures` and `tables` to collect the output.
 
 Beyond the standard Numpy and Scipy, there are only two important dependencies:
-* [DmSuite](https://github.com/labrosse/dmsuite), which is used to compute pseudospectral differentiation matrices, and which you can simply download using [Pip](https://pypi.org/project/dmsuite/)
-* [JAX](https://github.com/google/jax/), which is used to automatically differentiate system dynamics for the linearized simulation, and which you can also download using [Pip](https://pypi.org/project/jax/)
+* [DmSuite](https://github.com/labrosse/dmsuite), to compute pseudospectral differentiation matrices, which you can download using [Pip](https://pypi.org/project/dmsuite/)
+* [JAX](https://github.com/google/jax/), to automatically differentiate system dynamics for the linearized simulation, which you can also download using [Pip](https://pypi.org/project/jax/)
 
 If you have any questions on the code or the paper itself, feel free to message me at c.schesch@gmail.com.
