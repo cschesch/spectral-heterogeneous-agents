@@ -1,6 +1,6 @@
 # Pseudospectral Methods for Continuous-Time Heterogeneous-Agent Models
 
-In this repository, you can find the code accompanying _"Pseudospectral Methods for Continuous-Time Heterogeneous-Agent Models"_, forthcoming in the Journal of Economic Dynamics and Control.
+In this repository, you can find the code accompanying _"Pseudospectral Methods for Continuous-Time Heterogeneous-Agent Models"_, published in the Journal of Economic Dynamics and Control.
 
 ## Abstract
 
